@@ -2,3 +2,5 @@ gitcommand.txt
 /demo
 *.class
 Main.java
+*.iml
+.idea
